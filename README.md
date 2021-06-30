@@ -20,6 +20,6 @@ Más kódoló alkalmazások esetében más lehet az elrendezés típusa!
 
 A JSON fájl tartalmazza a bal Shift mellett található í betűre használt gombot is,
 ha nincs ilyen a billentyűzeteden, vagy a céleszköz billentyűzetén, akkor sincsen gond,
-mert a kis í betűt a Shift + j-vel, illetve a nagyot a Shift + i- kulcs kombinációval szintúgy el lehet érni.
+mert a kis í betűt a Shift + j-vel, illetve a nagyot a Shift + i kulcs kombinációval szintúgy el lehet érni.
 
 Ha átszeretnéd alakítani a billentyűzet elrendezést, akkor ahhoz megtalálod a megfelelő dokumentumok linkjét a JSON fájlban.
